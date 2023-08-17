@@ -1,99 +1,99 @@
 [
-  [
-    [
+  {
+  "code": [
       128516
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128512
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128578
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128579
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "upsidedown"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128515
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128513
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "cheese",
       "teeth",
       "grin"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128522
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "innocent",
       "blush"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       9786,
       65039
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "innocent",
       "blush"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128519
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "innocent",
@@ -101,25 +101,25 @@
       "holy",
       "halo"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128518
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "laugh",
       "xd"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128514
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "laugh",
@@ -128,13 +128,13 @@
       "lmao",
       "rofl"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129315
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "laugh",
@@ -144,13 +144,13 @@
       "lmao",
       "rofl"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128517
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "sweat",
@@ -158,149 +158,149 @@
       "awkward",
       "uncomfortable"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128521
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "wink"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128535
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "kiss"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128537
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "kiss"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128538
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "kiss",
       "blush"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128536
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "kiss",
       "heart",
       "love",
       "wink"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128525
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "heart",
       "love",
       "eyes"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129392
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "heart",
       "love"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129321
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "star",
       "eyes"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128539
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "tongue"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128541
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "tongue",
       "laugh",
       "xd"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128523
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "tongue",
       "yum"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128540
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "tongue",
       "wink"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129322
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "tongue",
@@ -308,13 +308,13 @@
       "joking",
       "funny"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129297
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "money",
@@ -323,39 +323,39 @@
       "tongue",
       "eyes"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129394
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "cry",
       "dying",
       "inside",
       "sad"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129303
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "happy",
       "blush",
       "hug",
       "hand"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129323
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "smile",
       "whisper",
       "shush",
@@ -363,75 +363,75 @@
       "secret",
       "silent"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129325
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "blush",
       "embarrass",
       "hand",
       "cover",
       "quiet"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129762
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "hand",
       "cover",
       "quiet",
       "secret"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129763
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "hand",
       "cover",
       "eye",
       "peeking",
       "secret"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129296
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "quiet",
       "zip",
       "silent"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128566
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "speechless",
       "silent",
       "quiet",
       "no",
       "mouth"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129300
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "think",
       "ponder",
       "question",
@@ -439,38 +439,38 @@
       "confuse",
       "hand"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129320
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "confuse",
       "question",
       "suspicious",
       "distrust",
       "eyebrow"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128528
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "neutral",
       "blank",
       "straight",
       "bored"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128529
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "neutral",
       "blank",
       "straight",
@@ -480,28 +480,28 @@
       "tired",
       "annoyed"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128566,
       8205,
       127787,
       65039
     ],
-    "20210218",
-    [
+    "date" : "20210218",
+    "emojiName" : [
       "clouds",
       "peekaboo",
       "spy",
       "hidden"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128527
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "suspicious",
       "sus",
       "funtimes",
@@ -510,13 +510,13 @@
       "smirk",
       "smug"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128524
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "happy",
       "satisf",
       "relaxed",
@@ -526,25 +526,25 @@
       "peace",
       "thank"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128556
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "uncomfortable",
       "awkward",
       "eek",
       "icky"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128580
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "rolling",
       "eyes",
       "omg",
@@ -552,13 +552,13 @@
       "with",
       "life"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128530
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "annoyed",
       "grump",
       "side",
@@ -567,26 +567,26 @@
       "tired",
       "negative"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       9785,
       65039
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sad",
       "upset"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128558,
       8205,
       128168
     ],
-    "20210218",
-    [
+    "date" : "20210218",
+    "emojiName" : [
       "sad",
       "tired",
       "depress",
@@ -595,88 +595,88 @@
       "air",
       "cloud"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128542
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sad",
       "depress",
       "upset",
       "disappoint"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128532
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sad",
       "depress",
       "upset",
       "remorse"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129317
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "lie",
       "liar",
       "nose",
       "pinocchio",
       "disbelief"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129393
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "yawn",
       "tired",
       "bored",
       "sleepy",
       "uninterested"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128554
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sleepy",
       "tired",
       "bored",
       "uninterested"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128564
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sleepy",
       "tired",
       "bored",
       "uninterested",
       "z"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129316
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "happy",
       "smile",
       "drooling",
@@ -684,13 +684,13 @@
       "hungry",
       "drool"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128567
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sick",
       "mask",
       "covid",
@@ -700,13 +700,13 @@
       "face",
       "cover"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129298
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sick",
       "fever",
       "thermometer",
@@ -715,26 +715,26 @@
       "hot",
       "sad"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129301
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sick",
       "hurt",
       "bandage",
       "injury",
       "sad"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129314
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sick",
       "green",
       "shrek",
@@ -742,39 +742,39 @@
       "puke",
       "nausea"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129326
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sick",
       "green",
       "vomit",
       "puke",
       "icky"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129319
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sick",
       "nose",
       "tissue",
       "sad",
       "xd"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129397
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "warm",
       "hot",
       "heat",
@@ -783,13 +783,13 @@
       "tongue",
       "red"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129398
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "cold",
       "freeze",
       "frozen",
@@ -800,13 +800,13 @@
       "teeth",
       "blue"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128565
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "dead",
       "cross",
       "x",
@@ -814,13 +814,13 @@
       "shook",
       "shock"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129396
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "happy",
       "smile",
       "drunk",
@@ -829,13 +829,13 @@
       "blush",
       "horny"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129760
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "melt",
       "happy",
       "smile",
@@ -845,13 +845,13 @@
       "dying",
       "acceptance"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129327
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "shook",
       "shock",
       "mindblow",
@@ -861,36 +861,36 @@
       "brain",
       "damage"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129312
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "happy",
       "cowboy",
       "hat"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129395
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "party",
       "hat",
       "happy",
       "celebrate"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129400
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "disguised",
       "detective",
       "glasses",
@@ -898,146 +898,146 @@
       "moustache",
       "mustache"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129488
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "monocle",
       "frown",
       "curious",
       "detective"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128526
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "cool",
       "glasses",
       "sun",
       "hot"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128533
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sad",
       "unsure",
       "hesitate",
       "frown",
       "disappoint"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129764
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "sad",
       "unsure",
       "hesitate",
       "frown",
       "disappoint"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128543
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sad",
       "worry",
       "frown",
       "concern",
       "disappoint"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128577
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sad",
       "upset"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128558
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "shook",
       "shock"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128559
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "shook",
       "shock",
       "astonish",
       "surprise"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128562
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "shook",
       "shock",
       "astonish",
       "surprise"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128551
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "shook",
       "shock",
       "astonish",
       "surprise",
       "worry"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128550
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "shook",
       "shock",
       "astonish",
       "surprise",
       "worry"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128552
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "fear",
       "cold",
       "worry",
@@ -1045,13 +1045,13 @@
       "shock",
       "concern"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128560
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "fear",
       "cold",
       "worry",
@@ -1060,13 +1060,13 @@
       "concern",
       "sweat"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128561
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "fear",
       "cold",
       "worry",
@@ -1077,36 +1077,36 @@
       "haunt",
       "scared"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128563
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "blush",
       "flush",
       "embarrass",
       "surprise"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129761
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "army",
       "salute",
       "hand"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129765
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "transparent",
       "faded",
       "fading",
@@ -1115,39 +1115,39 @@
       "see",
       "through"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129401
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "happy",
       "tear",
       "cry",
       "puppy",
       "eyes"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129402
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sad",
       "beg",
       "plead",
       "puppy",
       "eyes"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129299
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "nerd",
       "glasses",
       "smile",
@@ -1156,128 +1156,128 @@
       "harry",
       "potter"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128546
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sad",
       "tear",
       "cry"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128557
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sad",
       "tear",
       "cry",
       "flood",
       "loud"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128549
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sad",
       "sweat"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128531
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sad",
       "sweat"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128555
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "loud",
       "scream",
       "shout",
       "moan"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128553
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "loud",
       "scream",
       "shout",
       "moan"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128547
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sad",
       "uncomfortable",
       "icky"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128534
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "anger",
       "angry",
       "grr",
       "x",
       "eyes"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128544
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "anger",
       "angry",
       "grr"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128545
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "anger",
       "angry",
       "grr",
       "red"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129324
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "swear",
       "anger",
       "censor",
@@ -1285,76 +1285,76 @@
       "curse",
       "red"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128548
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "anger",
       "exhale",
       "cloud",
       "smoke",
       "bull"
     ]
-  ],
-    [
-    [
+  },
+  {
+  "code": [
       129335
     ],
-    "20220815",
-    [
+    "date" : "20220815",
+    "emojiName" : [
       "shrug",
       "person",
       "hands"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128520
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "happy",
       "devil",
       "horn",
       "purple",
       "mischievous"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128127
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "angry",
       "devil",
       "horn",
       "purple",
       "annoyed"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128169
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "shit",
       "poop",
       "excrements",
       "brown",
       "smile"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128128
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "spook",
       "dead",
       "skull",
@@ -1362,50 +1362,50 @@
       "forgor",
       "funny"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128125
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "spook",
       "alien",
       "supernatural"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128123
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "spook",
       "ghost",
       "laugh",
       "boo",
       "tongue"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129302
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "spook",
       "robot",
       "machine",
       "teeth",
       "android"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129313
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "spook",
       "clown",
       "funny",
@@ -1413,13 +1413,13 @@
       "blush",
       "fool"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127875
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "spook",
       "pumpkin",
       "jack",
@@ -1427,85 +1427,85 @@
       "carve",
       "halloween"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127801
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "plant",
       "flower",
       "rose",
       "red"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127804
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "plant",
       "flower",
       "yellow"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127799
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "plant",
       "flower",
       "tulip",
       "pink"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127800
     ],
-    "20210218",
-    [
+    "date" : "20210218",
+    "emojiName" : [
       "plant",
       "flower",
       "cherry",
       "blossom",
       "pink"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128144
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "plant",
       "flower",
       "bouquet"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127797
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "plant",
       "cactus",
       "spiky",
       "boi",
       "desert"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127794
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "plant",
       "tree",
       "christmas",
@@ -1513,13 +1513,13 @@
       "spruce",
       "forest"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129717
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "plant",
       "tree",
       "wood",
@@ -1528,64 +1528,64 @@
       "stump",
       "forest"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127812
     ],
-    "20220406",
-    [
+    "date" : "20220406",
+    "emojiName" : [
       "mushroom",
       "shroom",
       "fungus",
       "amanita",
       "forest"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129704
     ],
-    "20220406",
-    [
+    "date" : "20220406",
+    "emojiName" : [
       "rock",
       "stone",
       "boulder",
       "pebble"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127821
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "food",
       "fruit",
       "plant",
       "pineapple"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129361
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "food",
       "fruit",
       "plant",
       "vegetable",
       "avocado"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127798,
       65039
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "food",
       "fruit",
       "plant",
@@ -1597,37 +1597,37 @@
       "spicy",
       "jalapeno"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127820
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "food",
       "fruit",
       "plant",
       "banana"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127827
     ],
-    "20210831",
-    [
+    "date" : "20210831",
+    "emojiName" : [
       "food",
       "fruit",
       "plant",
       "strawberry"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127819
     ],
-    "20210521",
-    [
+    "date" : "20210521",
+    "emojiName" : [
       "food",
       "fruit",
       "plant",
@@ -1635,106 +1635,106 @@
       "lemon",
       "sour"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127818
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "food",
       "fruit",
       "plant",
       "citrus",
       "orange"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127817
     ],
-    "20220406",
-    [
+    "date" : "20220406",
+    "emojiName" : [
       "food",
       "fruit",
       "watermelon",
       "melon"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127826
     ],
-    "20220406",
-    [
+    "date" : "20220406",
+    "emojiName" : [
       "food",
       "fruit",
       "cherry"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127874
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "food",
       "sweet",
       "cake",
       "candle"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129473
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "food",
       "sweet",
       "cup",
       "cake",
       "sprinkle"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127852
     ],
-    "20220815",
-    [
+    "date" : "20220815",
+    "emojiName" : [
       "food",
       "sweet",
       "candy"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129472
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "food",
       "cheese"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127789
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "food",
       "hot",
       "dog"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127838
     ],
-    "20210831",
-    [
+    "date" : "20210831",
+    "emojiName" : [
       "food",
       "bread",
       "bake",
@@ -1742,26 +1742,26 @@
       "chleb",
       "pyszny"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       9749
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "food",
       "drink",
       "coffee",
       "hot"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127869,
       65039
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "food",
       "plate",
       "dish",
@@ -1770,13 +1770,13 @@
       "cutlery",
       "kitchen"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129440
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "covid",
       "corona",
       "virus",
@@ -1786,13 +1786,13 @@
       "bacteria",
       "sick"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       9924
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "snow",
       "snowman",
       "cold",
@@ -1800,13 +1800,13 @@
       "hat",
       "christmas"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127882
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "confetti",
       "ball",
       "popper",
@@ -1814,24 +1814,24 @@
       "celebrate",
       "pinata"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127880
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "balloon",
       "red",
       "fly"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128142
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "diamond",
       "shiny",
       "jewel",
@@ -1841,50 +1841,50 @@
       "crystal",
       "minecraft"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128139
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "kiss",
       "love",
       "lips",
       "mark"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129766
     ],
-    "20220203",
-    [
+    "date" : "20220203",
+    "emojiName" : [
       "lips",
       "biting",
       "nervous",
       "flirting",
       "love"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128148
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "broken",
       "love",
       "crack"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128140
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "letter",
       "paper",
@@ -1893,63 +1893,63 @@
       "message",
       "love"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128152
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "struck",
       "arrow",
       "love",
       "pink"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128159
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "box",
       "purple",
       "love"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128149
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "double",
       "love",
       "pink"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128158
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "double",
       "spin",
       "love",
       "pink"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128147
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "vibration",
       "station",
@@ -1958,28 +1958,28 @@
       "love",
       "pink"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128151
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "growing",
       "love",
       "pink"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       10084,
       65039,
       8205,
       129657
     ],
-    "20210218",
-    [
+    "date" : "20210218",
+    "emojiName" : [
       "injury",
       "bandage",
       "heart",
@@ -1988,39 +1988,39 @@
       "red",
       "love"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       10083,
       65039
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "dot",
       "love",
       "red"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       9829,
       65039
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "love",
       "red"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       10084,
       65039
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "rainbow",
       "colour",
@@ -2028,13 +2028,13 @@
       "love",
       "red"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129505
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "rainbow",
       "colour",
@@ -2042,13 +2042,13 @@
       "love",
       "orange"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128155
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "rainbow",
       "colour",
@@ -2056,13 +2056,13 @@
       "love",
       "yellow"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128154
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "rainbow",
       "colour",
@@ -2070,13 +2070,13 @@
       "love",
       "green"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128153
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "rainbow",
       "colour",
@@ -2084,13 +2084,13 @@
       "love",
       "blue"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128156
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "rainbow",
       "colour",
@@ -2098,13 +2098,13 @@
       "love",
       "purple"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129294
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "rainbow",
       "colour",
@@ -2112,13 +2112,13 @@
       "love",
       "brown"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129293
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "rainbow",
       "colour",
@@ -2126,13 +2126,13 @@
       "love",
       "white"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128420
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "rainbow",
       "colour",
@@ -2140,37 +2140,37 @@
       "love",
       "black"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128150
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "love",
       "sparkle"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128157
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "heart",
       "love",
       "ribbon",
       "bow",
       "tie"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127873
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "gift",
       "present",
       "ribbon",
@@ -2178,24 +2178,24 @@
       "tie",
       "box"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127895,
       65039
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "yellow",
       "ribbon"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127942
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "trophy",
       "cup",
       "gold",
@@ -2204,154 +2204,154 @@
       "win",
       "award"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       9917
     ],
-    "20220406",
-    [
+    "date" : "20220406",
+    "emojiName" : [
       "sport",
       "football",
       "ball",
       "soccer"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127936
     ],
-    "20230126",
-    [
+    "date" : "20230126",
+    "emojiName" : [
       "sport",
       "basketball",
       "ball",
       "orange"
     ]
-  ],
- [
-    [
+  },
+ {
+  "code": [
       128240
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "news",
       "paper"
     ]
-  ],
- [
-    [
+  },
+ {
+  "code": [
       127911
     ],
-    "20210521",
-    [
+    "date" : "20210521",
+    "emojiName" : [
       "head",
       "ear",
       "phone"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128175
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "100",
       "percent",
       "%",
       "one",
       "hundred"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128064
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "eyes",
       "look",
       "side"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128065,
       65039
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "eye",
       "look"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127751
     ],
-    "20210831",
-    [
+    "date" : "20210831",
+    "emojiName" : [
       "city",
       "sun",
       "set",
       "building"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128371,
       65039
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "hole",
       "ground",
       "dark",
       "void"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129668
     ],
-    "20210521",
-    [
+    "date" : "20210521",
+    "emojiName" : [
       "magic",
       "wand",
       "star",
       "sparkle"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128302
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "magic",
       "crystal",
       "ball",
       "purple"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128293
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "fire",
       "burn",
       "hot",
       "heat"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128165
     ],
-    "20220203",
-    [
+    "date" : "20220203",
+    "emojiName" : [
       "explosion",
       "fire",
       "bang",
@@ -2359,167 +2359,167 @@
       "crash",
       "impact"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128081
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "crown",
       "gold",
       "royal"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128049
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "cat",
       "kitten",
       "pussy",
       "meowtle"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129409
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "big",
       "cat",
       "lion",
       "rawr"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128047
     ],
-    "20220110",
-    [
+    "date" : "20220110",
+    "emojiName" : [
       "animal",
       "big",
       "cat",
       "tiger"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128053
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "monkey"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128584
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "monkey",
       "eye",
       "cover"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128055
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "pig"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129412
     ],
-    "20210831",
-    [
+    "date" : "20210831",
+    "emojiName" : [
       "animal",
       "horse",
       "unicorn"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129420
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "deer",
       "christmas",
       "xmas",
       "rudolf"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128016
     ],
-    "20210831",
-    [
+    "date" : "20210831",
+    "emojiName" : [
       "animal",
       "goat",
       "horn",
       "mountain"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129433
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "llama",
       "alpaca"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128038
     ],
-    "20210831",
-    [
+    "date" : "20210831",
+    "emojiName" : [
       "animal",
       "bird",
       "blue",
       "twitter",
       "fly"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128020
     ],
-    "20230126",
-    [
+    "date" : "20230126",
+    "emojiName" : [
       "animal",
       "bird",
       "chicken",
       "hen",
       "rooster"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129417
     ],
-    "20210831",
-    [
+    "date" : "20210831",
+    "emojiName" : [
       "animal",
       "bird",
       "owl",
@@ -2527,13 +2527,13 @@
       "wise",
       "night"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128039
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "animal",
       "bird",
       "penguin",
@@ -2541,13 +2541,13 @@
       "ice",
       "cold"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129415
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "bat",
       "batman",
@@ -2555,13 +2555,13 @@
       "vampire",
       "night"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128029
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "honey",
       "insect",
@@ -2576,110 +2576,110 @@
       "stinger",
       "bitch"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128375,
       65039
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "spider",
       "insect",
       "arachnid",
       "spooky"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128034
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "turtle",
       "god",
       "best",
       "meowtle"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128025
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "octopus",
       "squid"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128060
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "panda",
       "bear",
       "asian",
       "kungfu"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128059
     ],
-    "20210831",
-    [
+    "date" : "20210831",
+    "emojiName" : [
       "animal",
       "brown",
       "bear"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128040
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "koala",
       "bear",
       "dumb"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129445
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "sloth",
       "slow"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128048
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "rabbit",
       "hare",
       "ear",
       "rodent"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128045
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "mouse",
       "rat",
@@ -2687,101 +2687,101 @@
       "rodent",
       "cheese"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129428
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "animal",
       "hedgehog",
       "sonic",
       "sanic"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128054
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "animal",
       "dog",
       "mikra"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128041
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "animal",
       "dog",
       "poodle"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128058
     ],
-    "20221101",
-    [
+    "date" : "20221101",
+    "emojiName" : [
       "animal",
       "dog",
       "wolf",
       "howl"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129418
     ],
-    "20221101",
-    [
+    "date" : "20221101",
+    "emojiName" : [
       "animal",
       "dog",
       "fox"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129437
     ],
-    "20211115",
-    [
+    "date" : "20211115",
+    "emojiName" : [
       "animal",
       "raccoon"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128012
     ],
-    "20210218",
-    [
+    "date" : "20210218",
+    "emojiName" : [
       "animal",
       "snail",
       "slow"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129410
     ],
-    "20210218",
-    [
+    "date" : "20210218",
+    "emojiName" : [
       "animal",
       "scorpion"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128031
     ],
-    "20210831",
-    [
+    "date" : "20210831",
+    "emojiName" : [
       "animal",
       "fish",
       "swim",
@@ -2789,13 +2789,13 @@
       "sea",
       "ocean"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128051
     ],
-    "20230418",
-    [
+    "date" : "20230418",
+    "emojiName" : [
       "animal",
       "fish",
       "swim",
@@ -2804,13 +2804,13 @@
       "ocean",
       "shark"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       129416
     ],
-    "20230418",
-    [
+    "date" : "20230418",
+    "emojiName" : [
       "animal",
       "fish",
       "swim",
@@ -2819,97 +2819,97 @@
       "ocean",
       "whale"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127757
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "earth",
       "planet"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127774
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "sun",
       "star",
       "sky",
       "day",
       "light"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127775
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "star",
       "shiny",
       "night",
       "sky"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       11088
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "star",
       "shiny",
       "night",
       "sky"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127772
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "moon",
       "night",
       "sky",
       "right"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127771
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "moon",
       "night",
       "sky",
       "left"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       128171
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "star",
       "sparkle",
       "spin",
       "night",
       "sky"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127752
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "rain",
       "bow",
       "gay",
@@ -2919,39 +2919,39 @@
       "pride",
       "weather"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127786,
       65039
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "tornado",
       "wind",
       "sky",
       "weather"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       127754
     ],
-    "20230418",
-    [
+    "date" : "20230418",
+    "emojiName" : [
       "sea",
       "ocean",
       "water",
       "wave"
     ]
-  ],
-  [
-    [
+  },
+  {
+  "code": [
       9729,
       65039
     ],
-    "20201001",
-    [
+    "date" : "20201001",
+    "emojiName" : [
       "cloud",
       "sky",
       "air",
@@ -2959,5 +2959,5 @@
       "rain",
       "fluff"
     ]
-  ]
+  }
 ]
